@@ -1,4 +1,4 @@
-<h3>Longest path (paths) of a N-ary Tree</h3>
+<h3>Longest path (paths) of an N-ary Tree</h3>
 This algorithm for a N-ary Tree prints out longest path (paths) of a whole tree from leafs to leafs, roots to roots.
 
 1. The algorithm generates a file "values.txt" with values for roots of a Binary Tree.
